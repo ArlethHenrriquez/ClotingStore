@@ -52,3 +52,7 @@ C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\Cloting
 C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Web\obj\Debug\ClotingStore.Web.pdb
 C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Web\bin\ClotingStore.BL.dll
 C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Web\bin\ClotingStore.BL.pdb
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Web\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Web\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Web\bin\EntityFramework.SqlServer.xml

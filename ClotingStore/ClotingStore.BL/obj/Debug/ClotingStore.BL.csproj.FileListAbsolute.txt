@@ -3,3 +3,8 @@ C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\Cloting
 C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.BL\obj\Debug\ClotingStore.BL.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.BL\obj\Debug\ClotingStore.BL.dll
 C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.BL\obj\Debug\ClotingStore.BL.pdb
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.BL\bin\Debug\ClotingStore.BL.dll.config
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.BL\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.BL\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.BL\bin\Debug\EntityFramework.SqlServer.xml
