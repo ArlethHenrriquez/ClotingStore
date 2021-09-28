@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contexto.cs" />
+    <Compile Include="PluraliingTableNameConvention.cs" />
     <Compile Include="Producto.cs" />
     <Compile Include="ProductosBL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

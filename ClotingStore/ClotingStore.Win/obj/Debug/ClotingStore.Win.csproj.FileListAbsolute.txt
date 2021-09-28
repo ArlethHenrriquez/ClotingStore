@@ -9,3 +9,7 @@ C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\Cloting
 C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Win\obj\Debug\ClotingStore.Win.pdb
 C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Win\bin\Debug\ClotingStore.BL.dll
 C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Win\bin\Debug\ClotingStore.BL.pdb
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Win\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Win\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\Arleth\L4\repositorio\ClotingStore\ClotingStore\ClotingStore.Win\bin\Debug\EntityFramework.SqlServer.xml
