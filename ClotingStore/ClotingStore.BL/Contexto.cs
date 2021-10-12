@@ -19,6 +19,7 @@ namespace ClotingStore.BL
 
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
         }
-        public DbSet<Producto> Productos  { get; set; }
+        public DbSet<Producto> Categorias  { get; set; }
+        public DbSet<Categorias> Categoria  { get; set; }
     }
 }
